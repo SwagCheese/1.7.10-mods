@@ -1,0 +1,10 @@
+
+Loading excluded list from: C:\Users\hityn\Documents\misc\1.7.10 mods testing\saves\cheese\DIM82
+No exclusions found for this world.
+
+Loading options from: C:\Users\hityn\Documents\misc\1.7.10 mods testing\saves\cheese\DIM82
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+Ruins mod loaded successfully for world C:\Users\hityn\Documents\misc\1.7.10 mods testing\saves\cheese\DIM82, template files: 32
